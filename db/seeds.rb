@@ -1,0 +1,5 @@
+Message.create("content": "Hello, world!")
+Message.create("content": "Hi there!")
+Message.create("content": "Greetings!")
+Message.create("content": "Hey, how's it going?")
+Message.create("content": "Welcome!")
